@@ -1,0 +1,27 @@
+.am-whitespace.am-whitespace-md{
+
+	height:0;
+}
+
+.item{
+	padding:0 .1rem;
+	border-bottom: 1px solid #eee;
+	margin:0;
+	height:1.1rem;
+	line-height: 1.1rem;
+}
+
+.head{
+	display:inline-block;
+      width:.7rem;
+      height:.7rem;
+      border:1px solid #ccc;
+      border-radius:50%;
+      float:left;
+      margin-top:.2rem;
+      margin-right:.1rem;
+      background: url(./fish.jpg) no-repeat center center;
+      background-size: 100% 100%;
+
+
+}

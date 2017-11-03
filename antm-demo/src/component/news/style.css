@@ -1,0 +1,16 @@
+.newitem{
+	height: 1rem;
+	line-height: 1rem;
+	margin: 0;
+	font-size: 15px;
+	
+}
+.newhead{
+	width: .6rem;
+	height:.6rem;
+	border-radius: 50%;
+	float: left;
+	margin-top: .2rem;
+	margin-right: .1rem;
+	
+}

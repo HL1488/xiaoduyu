@@ -1,0 +1,11 @@
+.am-card-header-content{
+	-webkit-flex:none;
+	width: 1rem;
+}
+
+.am-card-header-extra{
+	font-size: 10px;
+	text-align: left;
+
+}
+

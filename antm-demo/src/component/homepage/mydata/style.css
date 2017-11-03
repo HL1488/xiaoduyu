@@ -1,0 +1,29 @@
+.data{
+	margin:0;
+	padding:0 .2rem;
+}
+.data li{
+	margin: 0;
+	list-style: none;
+	padding:.36rem;
+	background:#fff;
+	border-bottom:1px solid #ccc;
+	overflow: hidden;
+}
+.data li:nth-of-type(1){
+	line-height: 1rem;
+}
+
+.show{
+	float: right;
+	font-size: .26rem;
+	color:#333;
+}
+.sethead{
+	display: inline-block;
+	width: 1rem;
+	height:1rem;
+	border-radius: 50%;
+
+
+}

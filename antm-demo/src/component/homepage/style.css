@@ -1,0 +1,9 @@
+.myhead{
+		display:block; 
+  		width:1.3rem;
+  		height:1.3rem;
+  		border-radius:50%;
+  		border:1px solid #ccc;
+  		margin:.3rem auto;
+;
+  	}

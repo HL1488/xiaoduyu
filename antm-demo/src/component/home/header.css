@@ -1,0 +1,31 @@
+.header p{
+	margin:0;
+	line-height: .8rem;
+}
+.header p a{
+	display: inline-block;
+	width:33.33%;
+	text-align: center;
+	background: #fff;
+	border-radius: .1rem;
+	box-shadow: 0 0 10px #ccc;
+	color: #000;
+}
+.header div{
+	background:#fff;
+	height: .8rem;
+	padding:0 .2rem;
+}
+.header div span{
+	line-height:.8rem;
+}
+
+.header select{
+	height:.8rem;
+	border:none;
+	font-size: .rem;
+}
+option{
+	font-size: 12px;
+	
+}
